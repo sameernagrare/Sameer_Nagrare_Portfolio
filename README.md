@@ -10,7 +10,7 @@
 
 
 
-## [Potato Disease Classification using CNN](https://github.com/sameernagrare/Potato-Disease-Classification-using-CNN)
+## [Project 2 : Potato Disease Classification using CNN](https://github.com/sameernagrare/Potato-Disease-Classification-using-CNN)
 * Build Image Classification Deep Learning Model using Convolutional Neural Network (CNN)
 * Created backend server using FAST API and tested it using POSTMAN
 * Build a website using React JS for image testing
