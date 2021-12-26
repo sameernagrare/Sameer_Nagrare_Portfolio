@@ -4,4 +4,5 @@
 * Data collected from Kaggle
 * ETL and Data cleansing in Power BI using Power Query
 * Built an automated Dashboard providing quick and latest sales insights using Power BI
+
 ![](https://github.com/sameernagrare/Sameer_Portfolio/blob/main/Images/Sales_Insight.PNG)
