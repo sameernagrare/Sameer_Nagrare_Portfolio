@@ -27,3 +27,4 @@
 *	Build a predictive model using ANN
 *	Achieved an accuracy of 95% with minimal tuning
 
+![](/Images/Bank_Churn.PNG)
